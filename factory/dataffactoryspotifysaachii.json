@@ -1,0 +1,15 @@
+{
+	"name": "dataffactoryspotifysaachii",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5eb8f01b-c01f-4a3f-9651-d26a80a60fe9",
+		"tenantId": "de258c1b-71f5-4deb-8b01-e17b5b31c753"
+	}
+}

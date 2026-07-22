@@ -1,4 +1,4 @@
-{
+[
   {
 "schema": "dbo",
 "table": "DimUser",
@@ -29,4 +29,4 @@
 "cdc_col": "updated_at",
 "from_date": ""
   }
-}
+]
